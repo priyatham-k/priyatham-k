@@ -1,5 +1,3 @@
-Here's the updated version with your requested additions:
-
 👋 Hi, I’m @Priyatham  
 - 👀 I’m interested in JavaScript Frameworks (Mostly functional, occasionally shiny)  
 - 🚀 Currently learning **Java**  
@@ -11,5 +9,3 @@ Here's the updated version with your requested additions:
 - 🎯 Focused on delivering **high-performance applications**  
 - 🛠 Skilled in setting up **build systems** and **CI/CD pipelines**  
 - 📫 How to reach me: **priyathamkmikkili@gmail.com**
-
-Does this cover everything you were looking for?
