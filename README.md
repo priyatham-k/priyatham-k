@@ -1,4 +1,4 @@
-👋 Hi, I’m @Priyatham k 
+👋 Hi, I’m @Priyatham
 - 👀 I’m interested in JavaScript Frameworks (Mostly functional, occasionally shiny)  
 - 🚀 Currently learning **Java**  
 - 💡 Experienced in **Angular**, **React**, **Node.js**, and **MongoDB**  
