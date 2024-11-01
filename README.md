@@ -1,4 +1,4 @@
-e👋 Hi, I’m @Priyatham (one more time....)
+  👋 Hi, I’m @Priyatham (one more time....)
 - 👀 I’m interested in JavaScript Frameworks (Mostly functional, occasionally shiny)  
 - 🚀 Currently learning **Java**  
 - 💡 Experienced in **Angular**, **React**, **Node.js**, and **MongoDB**  
