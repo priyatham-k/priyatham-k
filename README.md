@@ -16,7 +16,7 @@
 <table align="center">
   <tr>
     <td><b>💻 Web Technologies</b></td>
-    <td align="right">
+    <td align="left">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td><b>📚 Frameworks/Libraries</b></td>
-    <td align="right">
+    <td align="left">
       <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>  
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>  
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>  
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td><b>🗄️ Databases</b></td>
-    <td align="right">
+    <td align="left">
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>  
@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td><b>☁️ Cloud & DevOps</b></td>
-    <td align="right">
+    <td align="left">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>  
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>  
@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td><b>🌀 Version Control</b></td>
-    <td align="right">
+    <td align="left">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
       <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white"/>  
     </td>
