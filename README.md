@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me:  
-🔹 **9 years of experience** in full-stack development and software architecture.  
+🔹 **8+ years of experience** in full-stack development and software architecture.  
 🔹 Passionate about building scalable, high-performance applications.  
 🔹 Skilled in **frontend and backend technologies** with expertise in **microservices and cloud solutions**.  
 🔹 Experienced in **Agile, DevOps practices, and CI/CD pipelines**.  
