@@ -4,10 +4,18 @@
 ---
 
 ## 👨‍💻 About Me:  
-🔹 **8+ years of experience** in full-stack development and software architecture.  
-🔹 Passionate about building scalable, high-performance applications.  
-🔹 Skilled in **frontend and backend technologies** with expertise in **microservices and cloud solutions**.  
-🔹 Experienced in **Agile, DevOps practices, and CI/CD pipelines**.  
+🔹 **8+ years of experience** in **full-stack development** and **software architecture**, specializing in building **scalable, high-performance applications** across **web and mobile platforms**.  
+🔹 Proficient in **frontend and backend technologies**, with hands-on expertise in **MEAN/MERN stacks, Angular, ReactJS, Node.js, and Spring Boot**.  
+🔹 Skilled in developing **RESTful APIs**, **GraphQL**, and implementing **microservices** to drive **scalable architecture** and **system integration**.  
+🔹 Extensive experience with **cloud solutions** including **AWS (EC2, Lambda, CloudWatch)**, **Azure**, and **Serverless architectures**.  
+🔹 Strong knowledge of **web security practices**, **OAuth2, JWT, SSO**, and **role-based access control (RBAC)** to ensure **secure application development**.  
+🔹 Adept at using **containerization** tools like **Docker** and **Kubernetes** for **orchestration** and **scalability**.  
+🔹 Proven track record in **Agile methodologies** (Scrum, Kanban), **DevOps practices**, and **CI/CD pipelines** using tools like **Jenkins, GitLab, and Bitbucket**.  
+🔹 Passionate about **test-driven development (TDD)** and **automated testing** with experience in **Jasmine, Karma, Mocha, and Protractor** for **frontend and backend reliability**.  
+🔹 Demonstrated ability to **optimize application performance** through **lazy loading, code splitting, caching strategies**, and **responsive design** techniques.  
+🔹 Strong collaboration and communication skills, working closely with **cross-functional teams**, **product managers**, and **UX/UI designers** to align development with **business objectives** and **user requirements**.  
+🔹 Experienced in managing **version control** and **code reviews** using **Git, TortoiseSVN**, and tracking project progress with **Jira and Slack**.  
+🔹 Committed to **continuous learning** and staying updated with the latest **technology trends, design patterns**, and **web standards**.  
 
 ---
 
