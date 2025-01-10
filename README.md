@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Priyatham Krishna Mikkili!</h1>  
-<h3 align="center">🚀 Senior Software Developer | Full-Stack Development | Java | Spring Boot | Angular | React | Node.js | Microservices | AWS | Cybersecurity Enthusiast</h3>  
+<h3 align="center">🚀 Senior Software Developer | Full Stack Development | Java | Spring Boot | Angular | React | Node.js | Microservices | AWS | Cybersecurity Enthusiast</h3>  
 
 ---
 
