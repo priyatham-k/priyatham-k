@@ -28,9 +28,19 @@
       <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>  
       <img src="https://img.shields.io/badge/NgRx-DC143C?style=for-the-badge&logo=redux&logoColor=white"/>  
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>  
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>  
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>  
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚡ Performance Optimization</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Lazy_Loading-000000?style=for-the-badge"/>  
+      <img src="https://img.shields.io/badge/Code_Splitting-FF4500?style=for-the-badge"/>  
+      <img src="https://img.shields.io/badge/Caching_Strategies-4682B4?style=for-the-badge"/>  
+      <img src="https://img.shields.io/badge/Lighthouse_Performance_Audits-32CD32?style=for-the-badge"/>  
     </td>
   </tr>
   <tr>
@@ -40,6 +50,25 @@
       <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logo=postman&logoColor=white"/>  
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>  
       <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>  
+      <img src="https://img.shields.io/badge/WebSockets-008080?style=for-the-badge"/>  
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛡️ Security & Authentication</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/OAuth2-4682B4?style=for-the-badge"/>  
+      <img src="https://img.shields.io/badge/JWT-FF4500?style=for-the-badge"/>  
+      <img src="https://img.shields.io/badge/Web_Security_Best_Practices-32CD32?style=for-the-badge"/>  
+      <img src="https://img.shields.io/badge/OWASP_Top_10-FFD700?style=for-the-badge"/>  
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Databases</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/ClickHouse-FFD700?style=for-the-badge"/>  
     </td>
   </tr>
   <tr>
@@ -48,10 +77,31 @@
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>  
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>  
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>  
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>  
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛠 Testing & Automation</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Karma-4479A1?style=for-the-badge&logo=karma&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge"/>  
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔧 Version Control & Collaboration</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>  
     </td>
   </tr>
 </table>
+
 
 ---
 
