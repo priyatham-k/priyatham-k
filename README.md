@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Priyatham Krishna Mikkili!</h1>  
-<h3 align="center">🚀 Senior Frontend Engineer | Angular 18 | React | TypeScript | Performance Optimization | Scalable Web Applications</h3>  
+<h3 align="center">🚀 Senior Full-Stack Engineer | Frontend-Focused | Angular | React | TypeScript | Performance Optimization | Scalable Web Applications</h3>  
 
 ---
 
 ## 👨‍💻 About Me:  
-🔹 **8+ years of experience** in **Frontend Engineering & UI Performance Optimization**, specializing in building **scalable, high-performance applications**.  
-🔹 **Expert in Angular (2-18), React, TypeScript, JavaScript (ES6+), RxJS, NgRx, and Redux** to develop dynamic and modular UI architectures.  
+🔹 **8+ years of experience** in **Senior Full-Stack Engineer | Frontend-Focused | UI Performance Optimization**, specializing in building **scalable, high-performance applications**.  
+🔹 **Expert in Angular (2-19), React, TypeScript, JavaScript (ES6+), RxJS, NgRx, and Redux** to develop dynamic and modular UI architectures.  
 🔹 Strong expertise in **Frontend Performance Optimization** (Lazy Loading, Code Splitting, Caching, Lighthouse Audits) to enhance application speed.  
 🔹 Proficient in **State Management** using **NgRx & Redux**, optimizing frontend reliability & user experience for enterprise applications.  
 🔹 Experienced in **RESTful APIs & GraphQL integration**, ensuring seamless backend/frontend communication.  
