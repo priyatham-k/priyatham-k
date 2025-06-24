@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me:  
-🔹 10 years of experience as a Senior Full-Stack Engineer, specializing in frontend-heavy development and high-performance web applications across enterprise platforms.
+🔹 **10 years of experience as a Senior Full-Stack Engineer, specializing in frontend-heavy development and high-performance web applications across enterprise platforms.
 🔹 Deep expertise in Angular (2–19), React, TypeScript, JavaScript (ES6+), RxJS, NgRx, and Redux, building scalable and maintainable UI architectures.
 🔹 Proven ability in UI Performance Optimization (lazy loading, code splitting, caching, DOM tuning), improving load times by up to 40% and enhancing UX in bandwidth-sensitive environments.
 🔹 Strong background in state management using NgRx, Redux, and Context API, ensuring data consistency and app reliability at scale.
