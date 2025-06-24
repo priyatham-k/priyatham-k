@@ -4,15 +4,16 @@
 ---
 
 ## 👨‍💻 About Me:  
-🔹 **8+ years of experience** in **Senior Full-Stack Engineer | Frontend-Focused | UI Performance Optimization**, specializing in building **scalable, high-performance applications**.  
-🔹 **Expert in Angular (2-19), React, TypeScript, JavaScript (ES6+), RxJS, NgRx, and Redux** to develop dynamic and modular UI architectures.  
-🔹 Strong expertise in **Frontend Performance Optimization** (Lazy Loading, Code Splitting, Caching, Lighthouse Audits) to enhance application speed.  
-🔹 Proficient in **State Management** using **NgRx & Redux**, optimizing frontend reliability & user experience for enterprise applications.  
-🔹 Experienced in **RESTful APIs & GraphQL integration**, ensuring seamless backend/frontend communication.  
-🔹 Skilled in **Web Security Best Practices (OAuth2, JWT, Role-Based Access Control)** to build secure applications.  
-🔹 Passionate about **CI/CD automation**, utilizing **Jenkins, GitHub Actions, Docker** for streamlined frontend deployments.  
-🔹 Adept at **collaborating with cross-functional teams**, working closely with **designers, product managers, and backend engineers**.  
-🔹 Dedicated to **mentoring & knowledge sharing**, contributing to **frontend architecture decisions & developer best practices**.  
+🔹 10 years of experience as a Senior Full-Stack Engineer, specializing in frontend-heavy development and high-performance web applications across enterprise platforms.
+🔹 Deep expertise in Angular (2–19), React, TypeScript, JavaScript (ES6+), RxJS, NgRx, and Redux, building scalable and maintainable UI architectures.
+🔹 Proven ability in UI Performance Optimization (lazy loading, code splitting, caching, DOM tuning), improving load times by up to 40% and enhancing UX in bandwidth-sensitive environments.
+🔹 Strong background in state management using NgRx, Redux, and Context API, ensuring data consistency and app reliability at scale.
+🔹 Experienced in RESTful and GraphQL APIs, using tools like Apollo to optimize real-time data delivery and minimize payload.
+🔹 Skilled in Web Security Best Practices including OAuth2, JWT, and OWASP guidelines, safeguarding user data and app integrity.
+🔹 Passionate about CI/CD automation with Jenkins, GitHub Actions, Docker, and test-driven development (TDD) for faster, safer deployments.
+🔹 Hands-on with AWS services (EC2, Lambda, S3, CloudFront, API Gateway), enabling robust cloud-native application development.
+🔹 Adept at building WCAG 2.2-compliant, responsive UIs with strong focus on cross-browser compatibility and accessibility.
+🔹 Collaborative leader experienced in mentoring engineers, facilitating cross-functional team alignment, and driving process improvements to meet business goals. 
 
 ---
 
