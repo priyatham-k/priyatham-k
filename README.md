@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Priyatham Krishna Mikkili!</h1>  
-<h3 align="center">🚀 Senior Full-Stack Engineer | Frontend-Focused | Angular | React | NodeJs | TypeScript | Performance Optimization | Scalable Web Applications</h3>  
+<h3 align="center">🚀 Senior Full-Stack Engineer | Angular | React | NodeJs | TypeScript | Performance Optimization | Scalable Web Applications</h3>  
 
 ---
 
