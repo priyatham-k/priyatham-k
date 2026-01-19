@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me:  
 🔹 **10+ years of experience** in **Senior Full-Stack Engineer | UI Performance Optimization**, specializing in building **scalable, high-performance applications**.  
-🔹 **Expert in Angular (2-19), React, TypeScript, JavaScript (ES6+), RxJS, NgRx, and Redux** to develop **dynamic and modular UI architectures**.  
+🔹 **Expert in Angular (2-21), React, TypeScript, JavaScript (ES6+), RxJS, NgRx, and Redux** to develop **dynamic and modular UI architectures**.  
 🔹 **Strong expertise** in **Frontend Performance Optimization** (**Lazy Loading, Code Splitting, Caching, Lighthouse Audits**) to enhance **application speed**.  
 🔹 **Proficient in State Management** using **NgRx & Redux**, optimizing **frontend reliability & user experience** for **enterprise applications**.  
 🔹 **Experienced in RESTful APIs & GraphQL integration**, ensuring **seamless backend/frontend communication**.  
